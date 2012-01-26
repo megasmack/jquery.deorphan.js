@@ -1,5 +1,5 @@
 /*
- * 	deOrphan 1.0 - jQuery Plugin
+ *	deOrphan 1.0 - jQuery Plugin
  *	written by Steve Schrab - @megasmack
  *	Special thanks to Erik Wessel - @wesselej and Jeffrey Schrab - @jschrab
  *
