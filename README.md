@@ -30,10 +30,11 @@ If you put your JavaScript in the head of your document, make sure your DOM is r
 Author
 ======
 
+Steve Schrab
+------------
 [@megasmack](http://twitter.com/megasmack)
 
 Special thanks to:
-------------------
 [@wesselej](http://twitter.com/wesselej) and [@jschrab](http://twitter.com/jschrab)
 
 License
