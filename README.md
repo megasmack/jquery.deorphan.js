@@ -6,7 +6,11 @@ A jQuery plugin for eliminating typographical orphans on select text elements.
 What are orphans?
 -----------------
 
-Orphans are a single word that appears by itself at the end of a paragraph. This script finds the last two words of a selected element and joins together them with a non-breaking space. For example:
+An orphan is a single word that appears by itself at the end of a paragraph.
+This script finds the last two words of a selected element and joins them
+together with a non-breaking space.
+
+For example:
 
 ![jquery.deorphan.js - before and after example](http://www.gsdesign.com/sites/default/files/default/files/gs/images/blog/before-after.png)
 

@@ -8,8 +8,11 @@
  *	http://www.opensource.org/licenses/mit-license.php
  *
  *	What are Orphans?
- *	Orphans are a single word that appears by itself at the end of a paragraph.
- *	This script finds the last two words of a selected element and joins together them with a non-breaking space.
+ *
+ *	An orphan is a single word that appears by itself at the end of a paragraph.
+ *	This script finds the last two words of a selected element and joins
+ *	them together with a non-breaking space.
+ *
  *	http://en.wikipedia.org/wiki/Widows_and_orphans
  */
 
