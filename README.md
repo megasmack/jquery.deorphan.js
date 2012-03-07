@@ -36,7 +36,7 @@ If you put your JavaScript in the head of your document, make sure your DOM is r
 Known Bugs
 ----------
 
-IE6 doesn't seem to like [textContent]. You may want to hide this script for IE6 and lower.
+IE6 doesn't seem to like _textContent_. You may want to hide this script for IE6 and lower.
 
 Author
 ======
