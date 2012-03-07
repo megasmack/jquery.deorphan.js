@@ -33,6 +33,11 @@ If you put your JavaScript in the head of your document, make sure your DOM is r
 		$('.your-class-name').deOrphan();
 	});
 
+Known Bugs
+----------
+
+IE6 doesn't seem to like [textContent]. You may want to hide this script for IE6 and lower.
+
 Author
 ======
 
