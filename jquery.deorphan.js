@@ -35,11 +35,11 @@
 	$.fn.deOrphan = function() {
 
 		function _deOrphan(node) {
-			$(node).contents().each(function () {
-				if (this.nodeType == 3) { // nodeType 3 is TEXT_NODE
-					this.textContent = this.textContent.replace(/ (\S*)$/, '\u00A0$1');
+			$(node).contents().each(function (i,node) {
+				if (node.nodeType == 3) { // nodeType 3 is TEXT_NODE
+					node.textContent = node.nodeValue.replace(/ (\S*)$/, '\u00A0$1');
 				} else {
-					_deOrphan(this);
+					_deOrphan(node);
 				}
 			});
 		}
