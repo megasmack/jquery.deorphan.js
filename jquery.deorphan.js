@@ -36,7 +36,7 @@
 
 		function _deOrphan(node) {
 			$(node).contents().each(function (i,node) {
-				if (node.nodeType == 3) { // nodeType 3 is TEXT_NODE
+				if (node.nodeType == 3 && (typeof(node.textContent) !== 'undefined')) { // nodeType 3 is TEXT_NODE
 					node.textContent = node.nodeValue.replace(/ (\S*)$/, '\u00A0$1');
 				} else {
 					_deOrphan(node);
