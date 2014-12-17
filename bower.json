@@ -1,6 +1,6 @@
 {
     "name": "jquery.deorphan",
-    "main": "jquery.deorphan.js",
+    "main": "jquery.deorphan.min.js",
     "ignore": [],
     "version": "1.1.1",
     "description": "A jQuery plugin for eliminating typographical orphans on select text elements.",
