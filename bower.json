@@ -1,12 +1,12 @@
 {
     "name": "jquery.deorphan",
-    "main": "jquery.deorphan.min.js",
+    "main": "jquery.deorphan.js",
     "ignore": [],
-    "version": "1.1.4",
+    "version": "1.1.5",
     "description": "A jQuery plugin for eliminating typographical orphans on select text elements.",
     "homepage": "https://github.com/megasmack/jquery.deorphan.js",
     "authors": [
-        "Steve Schrab <steve.schrab@gsdesign.com>"
+        "Steve Schrab <steve.schrab@gsdesign.com> (https://github.com/megasmack)"
     ],
     "keywords": [
         "orphan",
@@ -15,6 +15,11 @@
         "jquery"
     ],
     "license": "MIT",
+    "ignore": [
+       ".editorconfig",
+       ".gitignore",
+       ".jshintrc"
+   ],
     "dependencies": {
         "jquery": ">=1.11.0"
     }
