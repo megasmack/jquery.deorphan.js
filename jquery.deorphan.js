@@ -1,5 +1,5 @@
 /*
- *  deOrphan 1.1.3 - jQuery Plugin
+ *  deOrphan 1.1.5 - jQuery Plugin
  *  https://github.com/megasmack/jquery.deorphan.js
  *  written by Steve Schrab - @megasmack
  *  Special thanks to Erik Wessel - @wesselej and Jeffrey Schrab - @jschrab
