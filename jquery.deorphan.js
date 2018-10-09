@@ -1,10 +1,10 @@
 /*
- *  deOrphan 1.1.5 - jQuery Plugin
+ *  deOrphan 2.0.0 - jQuery Plugin
  *  https://github.com/megasmack/jquery.deorphan.js
  *  written by Steve Schrab - @megasmack
  *  Special thanks to Erik Wessel - @wesselej and Jeffrey Schrab - @jschrab
  *
- *  Copyright (c) 2015 Steve Schrab (http://www.gsdesign.com/)
+ *  Copyright (c) 2014 Steve Schrab (https://steve.schrab.org/)
  *  Licensed under the MIT license:
  *  http://www.opensource.org/licenses/mit-license.php
  *
@@ -14,7 +14,7 @@
  *  This script finds the last two words of a selected element and joins
  *  them together with a non-breaking space.
  *
- *  http://en.wikipedia.org/wiki/Widows_and_orphans
+ *  https://en.wikipedia.org/wiki/Widows_and_orphans
  */
 (function($){
     $.fn.deOrphan = function() {
