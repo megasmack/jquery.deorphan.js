@@ -11,7 +11,7 @@ together with a non-breaking space.
 
 ### For example:
 
-![jquery.deorphan.js - before and after example](https://www.gsdesign.com/sites/default/files/default/files/gs/images/blog/before-after.png)
+![jquery.deorphan.js - example](https://www.jqueryscript.net/images/jQuery-Plugin-To-Eliminate-Paragraph-Orphans-deorphan-js.jpg)
 
 For more information, check out this [Wikipedia entry](http://en.wikipedia.org/wiki/Widows_and_orphans).
 
