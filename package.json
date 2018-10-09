@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/megasmack/jquery.deorphan.js#readme",
   "dependencies": {
-    "jquery": "^1.11.0"
+    "jquery": "^3.3.1"
   }
 }
